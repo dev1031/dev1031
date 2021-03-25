@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dev1031
-- 👀 I’m interested in SOftware Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Numpy and Pandas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dherendradev106@gmail.com
