@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev1031
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Numpy and Pandas
+- 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dherendradev106@gmail.com
 
